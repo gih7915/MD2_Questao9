@@ -1,6 +1,7 @@
 # Cálculo de Congruência Modular
 
 Aluna: Giovana Ferreira Santos
+
 Matricula: 231034707
 
 Este projeto implementa um algoritmo para resolver problemas de congruência modular, seguindo uma série de etapas matemáticas que incluem cálculo de MDC, inverso modular, verificações de primalidade e exponenciação modular.
